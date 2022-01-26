@@ -1,0 +1,3 @@
+Player.completeLevel() - call getScore to save score for the level. Clear inventory and set token total to 0. Increment HighestLevel using set HighestLevel. Display scoreboard and then level menu.
+
+Player.move() - call move up/down/left/right appropriately. Call checkCellType. Dependent on cell type call appropriate methods to use items from inventory, change coordinates or die.

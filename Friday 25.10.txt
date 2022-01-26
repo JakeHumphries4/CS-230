@@ -1,0 +1,15 @@
+Friday 25/10/19 minutes
+Partial design document
+
+Classes chosen:
+	Player
+	User
+	Ground
+	Smart Enemy
+	Map Reader
+
+Complex behaviours (need 5):
+	smart enemy shortest path
+	map reader load map
+
+Hierachy Description - Cell and children
